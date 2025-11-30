@@ -1,0 +1,22 @@
+{
+    "material_name": "N00_002_01_Tops_01_CLOTH",
+    "abb_name": "SKL2",
+    "parent_bone_name": "左足",
+    "group": "8",
+    "direction": "下",
+    "primitive": "単一揺れ物",
+    "exist_physics_clear": "再利用",
+    "target_bones": [
+        [
+            "装飾_11-02_Sec_L_SkirtFront1_01",
+            "装飾_11-03_Sec_L_SkirtFront2_01",
+            "装飾_11-04_Sec_L_SkirtFront2_end_01"
+        ]
+    ],
+    "back_extend_material_names": [
+        "N00_002_01_Tops_01_CLOTH_エッジ",
+        "N00_002_01_Tops_01_CLOTH_裏"
+    ],
+    "rigidbody_root_thick": 0.35,
+    "rigidbody_end_thick": 0.5
+}
